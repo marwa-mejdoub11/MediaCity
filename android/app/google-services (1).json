@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "75247203008",
+    "project_id": "mediacite-8ce11",
+    "storage_bucket": "mediacite-8ce11.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75247203008:android:e8dad41c67a83b8afaf325",
+        "android_client_info": {
+          "package_name": "com.example.mediacite"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0ljtJczE4uWI_gCFYqA9a5nhs0Kn0zkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
